@@ -1,0 +1,137 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    border-radius: 5px;
+}
+
+.center_container{
+    max-width: 360px;
+    margin: auto;
+}
+
+img{
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    width: 150px;
+}
+
+input{
+    width: 290px;
+    height: 35px;
+    margin: 20px;
+    margin-top: 5px;
+}
+
+.container_inputs{
+   text-align: left;
+   max-width: 350px;
+   margin: auto;
+   margin-top: 40px;
+   border: solid 1px darkgrey;
+   border-radius: 5px;
+}
+
+h1{
+    text-align: left;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-left: 24px;
+    margin-bottom: 0px;
+}
+
+.forgot{
+    float: right;
+    text-decoration: none;
+    font-size: 12px;
+    margin-right: 40px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    margin-top: 3px;
+    color: #007bff;
+}
+
+.continue{
+    width: 300px;
+    height: 38px;
+    margin: 20px;
+    background-color: #f7c548;
+    border-radius: 5px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+}
+
+.continue:hover{
+    background-color: #f7c138;
+    cursor: pointer;
+}
+
+ul li{
+    color: #007bff;        
+}
+
+.help{
+    color: #007bff;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.containter_new_line{
+    display: flex
+}
+
+.new{
+    text-align: center;
+    color: #555;
+}
+
+.line{
+    height: 1px;
+    width: 100px;
+    background-color: #555;
+    margin: auto;
+    padding: 0;
+}
+
+.create{
+    display: block;
+    width: 340px;
+    height: 38px;
+    border-radius: 5px;
+    margin: auto;
+    border: solid 1px #555;
+}
+
+#line3{
+    padding: 0;
+    margin: 0;
+    margin-top: 60px;
+    width: 100%;
+}
+
+.footer{
+    margin: 0px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.foot_link{
+    margin: 15px;
+    text-decoration: none;
+    font-size: 14px;
+    color: #007bff;
+}
+
+.cr{
+    margin-top: 60px;
+    font-size: 14px;
+}
